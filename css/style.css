@@ -727,7 +727,7 @@ hr.bold {
 }
 
 .intro-content {
-	background: url(../img/dummy/bg1.jpg) no-repeat top center;
+	background: #fff;
 	padding:200px 0 60px;
 }
 .intro-content.intro-nobg {
@@ -1872,7 +1872,7 @@ a.btn:focus{
 }
 
 .bgr .bg.bg1 {
-	background: url(../img/bodybg/bg1.png) repeat left top;
+	/* background: url(../img/bodybg/bg1.png) repeat left top; */
 }	
 .bgr .bg.bg2 {
 	background: url(../img/bodybg/bg2.png) repeat left top;
